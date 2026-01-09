@@ -1,0 +1,5 @@
+Amit,78,B
+Sneha,88,A
+Rahul,65,C
+Pooja,92,A
+Neha,74,B
