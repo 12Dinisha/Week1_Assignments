@@ -48,4 +48,4 @@ The project demonstrates core Python concepts applied in a structured and practi
 Make sure Python 3.10+ is installed.
 
 ```bash
-python Dinisha_AI_ML_Week2.py
+python Dinisha_AI_ML_Week1.py
